@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    mkfifo (0.1.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  mkfifo
+
+BUNDLED WITH
+   1.15.4
