@@ -20,7 +20,7 @@ Signal.trap('HUP', 'IGNORE') # So we can detach
 processes = (0..COMBINATION_RANGE).to_a.each_with_object({}) do |slot_number, process_hash|
   f = Tempfile.new('bank'); p = f.path; f.close!
   pid = fork do
-    Process.setproctitle("Bank combination choice #{slot_number}")
+    Process.setproctitle("Bank pin #{slot_number}")
     puts "Write any data to #{p} to activate combination number #{slot_number}"
     Signal.trap('TERM') { File.unlink(p); exit }
 
