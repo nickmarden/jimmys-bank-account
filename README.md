@@ -61,6 +61,8 @@ After we receive your email, we will email you back to tell you when your Unix a
 
 The first person to be able to unlock Jimmy's bank account and tell us how much money was in it wins MYR 500! (Not 500 factorial; that would be a lot of money. Just "500 with enthusiasm".)
 
+*UPDATE*: Lincoln Lee ([@linc01n](https://github.com/linc01n)) has solved the puzzle. To keep things interesting, we will have prizes of RM200 and RM100 for second- and third-place solutions.
+
 # What if no one solves it?
 
 If you can't solve it, send a written explanation of how you tried to solve it to steal-jimmys-money@rrsoft.co. If no one actually cracks the bank, we will pick a winner from among those submitted explanations.
