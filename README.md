@@ -1,3 +1,7 @@
+# UPDATE: This contest is closed
+
+This contest was created for RubyConf MY 2017, which took place on October 12-13, 2017 in Cyberjaya, Malaysia.
+
 # Jimmy's Bank Account
 
 This is where Jimmy Ngu ([@jimmynguyc](https://github.com/jimmynguyc))  keeps all the tall stacks of coin that he makes from running RubyConf MY ;-)
